@@ -32,7 +32,7 @@ I'm a **Tech Enthusiast & Developer** currently interning as an Associate Produc
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/azure/0078D4" height="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
 </div>
