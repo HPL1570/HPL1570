@@ -1,6 +1,6 @@
 # Hey there, I'm Patcha Hemanth Lakshman! 👋
 
-I'm a **Tech Enthusiast & Developer** with hands-on experience in front-end development, GenAI applications, and scalable web projects. I'm currently pursuing my B.Tech in Computer Science and working on innovative projects blending AI, data, and modern web interfaces.
+I'm a **Tech Enthusiast & Developer** currently interning as an Associate Product Engineer at Orion Data Compliance Solutions, and as a GenAI Intern at 4SightAI. I bring hands-on experience in front-end development, scalable Python applications, and GenAI integrations using LLMs. Pursuing my B.Tech in Computer Science, I'm passionate about building intelligent, efficient solutions that bridge AI, automation, and modern web development.
 
 ---
 
